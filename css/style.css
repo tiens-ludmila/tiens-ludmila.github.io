@@ -191,11 +191,7 @@ padding-bottom: 110px;
 	 }
 	}
 
-	@media (max-width: 768px) {
-	.container{
-	margin: 0 auto;
-	 }
-	}
+	
 	/*@media (max-width: 992px) {
 		.header-img{
 		display: none;	
