@@ -140,12 +140,12 @@ color: #000000;
 /*font-size: 20px;*/
 /*font-weight: 400;*/
 margin: 0;
-text-align: justify;
+text-align: left;
 }
 
 .portfolio-text3{
 margin-top: 0;
-
+text-align: justify;
 }
 
 .outline{
