@@ -52,6 +52,11 @@ font-weight: 700;
 line-height: 46.81px;	
 margin-top: 21px;
 }
+
+.header-pretitle{
+	margin-top: 40px;
+	}
+
 .header-subtitle {
 	margin-top: 20px;
 }
@@ -227,9 +232,6 @@ padding-bottom: 110px;
 		display: none;	
 		}*/
 	
-	.header-pretitle{
-	margin-top: 60px;
-	}
 	
 	.footer-author{
 	font-size: 18px;	
