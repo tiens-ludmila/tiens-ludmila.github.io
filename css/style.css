@@ -50,6 +50,7 @@ header {
 .text-color{
 color: #8A2BE2;
 margin: 0;
+font-weight: bold;
 }
 
 .header-title {
