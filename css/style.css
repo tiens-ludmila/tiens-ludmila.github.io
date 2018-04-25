@@ -107,19 +107,19 @@ header small {
 	text-transform: uppercase;
 	font-size: 26px;
 	color: #072b6f;
+	margin: 0 auto;
 	margin-bottom: 25px;
 }
 .portfolio-subtitle {
-margin-top: 10px;
+margin: 10px 5px 10px;
 font-size: 24px !important;
 color: #006400 !important;
 }
 
 ul,li {
-margin-top: 10px;
+margin: 10px 5px 10px ;
 font-size: 21px;
 text-align: left;
-margin-left: 20px;
 list-style-type: circle;
 }
 
