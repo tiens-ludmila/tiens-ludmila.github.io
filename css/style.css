@@ -115,11 +115,11 @@ font-size: 24px !important;
 color: #006400 !important;
 }
 
-.ul,li {
+ul,li {
 margin-top: 10px;
 font-size: 21px;
 text-align: left;
-margin-left: 50px;
+margin-left: 20px;
 list-style-type: circle;
 }
 
