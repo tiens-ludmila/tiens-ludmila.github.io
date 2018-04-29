@@ -4,15 +4,22 @@ body {
 	font-family: 'Roboto';
 	font-size: 20px;
 }
+
 img {
 	max-width: 100%;
+	border-radius: 30px;
 }
+
 header {
 	padding-top: 59px ;
 	padding-bottom: 22px;
 	background-color: #3a7dfd;
 	color: #ffffff;
 }
+/*
+.header-img{
+
+}*/
 
 /************** Стили для видео***************/
 .embed-responsive.embed-responsive-16by9 {
@@ -108,18 +115,38 @@ header small {
 	font-size: 26px;
 	color: #072b6f;
 	margin: 10px 5px 25px 5px;
+	padding: 0 5px;
 }
+
+@media (max-width: 768px) {
+	ul li{
+	margin: 10px 10px;
+font-size: 21px;
+text-align: left;
+list-style-type: circle;
+	 }
+	}
 .portfolio-subtitle {
 margin: 10px 5px 10px;
 font-size: 24px !important;
 color: #006400 !important;
 }
 
-ul,li {
-margin: 10px 5px 10px ;
+ul li {
+margin: 20px 10px 10px;
 font-size: 21px;
 text-align: left;
 list-style-type: circle;
+}
+
+ul{
+padding-left: 50px;
+}
+
+.portfolio-text2 li  {
+margin: 10px 5px 10px ;
+font-size: 21px;
+list-style-type: disc;
 }
 
 .portfolio-title, .portfolio-subtitle {
@@ -168,12 +195,12 @@ margin-top: 10px;
 margin-bottom: 5px; 
 text-align: justify;
 }
-.portfolio-text2{
-color: #000000;
-/*font-size: 20px;*/
-/*font-weight: 400;*/
-margin: 0;
-text-align: left;
+
+.portfolio-text2  {
+margin: 10px 5px 10px ;
+font-size: 21px;
+padding-left: 12px;
+list-style-type: disc;
 }
 
 .portfolio-text3{
@@ -183,7 +210,7 @@ text-align: justify;
 
 .portfolio-text4{
 margin-top: 0;
-margin-bottom: 10px;
+margin-bottom: 5px;
 text-align: justify;
 }
 
