@@ -298,12 +298,7 @@ padding-bottom: 110px;
 	margin-top: 47px;
 	 }
 	}
-@media (max-width: 768px) {
-	.col-md-4{
-	margin: 0 auto;
-	 }
-	}
-	
+
 	/*@media (max-width: 992px) {
 		.header-img{
 		display: none;	
