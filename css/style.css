@@ -54,6 +54,10 @@ header {
 	border-radius: 50px;
 }*/
 
+h3{
+text-align: center;
+
+}
 .text-color{
 color: #8A2BE2;
 margin: 0;
@@ -281,6 +285,22 @@ padding-bottom: 110px;
 	transition: 0.2s;
 	}
 
+.contacts{
+	font-size: 14px;
+	text-align: center;
+	color: #fff;
+	transition: 0.2s;
+	}
+
+	a{
+	color: #fff;
+	}
+
+	.footertel{
+	margin: 5px;
+	text-decoration: none;
+	border-bottom: 1px dashed #fff;
+}
 	@media (max-width: 1200px) {
 	.header-pretitle{
 	margin-top: 45px;
